@@ -1,0 +1,42 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "animBomHigh",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 60,
+  "speed": 0.3,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            538,
+            -40
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            -538,
+            -40
+          ]
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0.6,
+      "func": "judgeDown",
+      "params": []
+    },
+    {
+      "frame": 0.6833333333333333,
+      "func": "judgeDown",
+      "params": []
+    }
+  ]
+}

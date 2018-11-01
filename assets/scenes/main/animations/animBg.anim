@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "animBg",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 20,
+  "sample": 60,
+  "speed": 0.3,
+  "wrapMode": "2",
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": 2602.5
+        },
+        {
+          "frame": 20,
+          "value": -2602.5
+        }
+      ]
+    }
+  },
+  "events": []
+}
